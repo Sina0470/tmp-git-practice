@@ -7,3 +7,5 @@ def add(a, b):
 def multiple(d):
     c = add()
     return c * d
+
+print("hello world")
