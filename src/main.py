@@ -7,3 +7,6 @@ def add(a, b):
 def multiple(d):
     c = add()
     return c * d
+
+def power(a, b):
+    return a ** b
