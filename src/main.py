@@ -11,3 +11,6 @@ def multiple(d):
 
 def power(a, b):
     return a ** b
+
+if __name__ == "main":
+    power(2, 3)
